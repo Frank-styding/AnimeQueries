@@ -1,4 +1,4 @@
-export const Queries = {
+export const QueriesData = {
   AnimeDataFromPage: {
     "https://www3.animeflv.net": {
       imageSrc: {
